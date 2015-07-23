@@ -1,0 +1,154 @@
+{ 
+	"2.1.4": [
+		"Visual improvements",
+		"Improvements to Import From FB / local import"
+	],
+	"2.1.3": [
+		"Player interface - icons improved",
+		"Auto-updater improvements",
+		"DLNA (Smart TV) streaming improvements",
+		"Minor fixes"
+	],
+	"2.0.0": [
+		"<b>Re-worked core - much better performance</b>",
+		"<b>Video player - performance & codec support</b>",
+		"<b>\"Magic Open\" - open your own torrent files by dragging into Stremio</b>",
+		"<b>Casting support - AppleTV, Chromecast, DLNA (Smart TV)</b>",
+		"Casting - on-the-fly video convertion - you can play anything",
+		"Discover - infinite scrolling",
+		"Subtitles - picking improvements",
+		"Better Desktop integration - right click on taskbar/dock icon to see recent items",
+		"Better detection of local media",
+		"Import library from Facebook",
+		"Minor fixes/improvements"
+	],
+	"1.15.6": [
+		"Brand new Add-ons panel",
+		"New Intro window, more elegant library importing",
+		"Subtitles improvements",
+		"Streaming improvements"		
+	],
+	"1.15.5": [
+		"More supported video codecs",
+		"Player: seek bar UX improvement"
+	],
+	"1.15.0": [
+		"Channels: follow your favourite YouTube channels with Cinematic",
+		"Player: show episode title in the title bar"
+	],
+	"1.14.4": [
+		"Brand new Settings",
+		"Availability checking: never shows Play buttons if there's no stream",
+		"Ability to select an between SD/HD qualities when available",
+		"AppleTV / Chromecast support - experimental",
+		"2 new subtitle sizes for accessibility"
+	],
+	"1.14.1": [
+		"Resume notifications - close button",
+		"Sidebar - visual tweaks",
+		"Calendar shows episodes from last month",
+		"Internal fixes"
+	],
+	"1.14.0": [
+		"Hello! This is a brand new of Cinematic. We have packed a ton of structural/technical improvements, you should notice it mainly in the performance & stability.",
+		"We have also revamped the server structure and search engine and added a ton of minor touches!",
+		"Happy watching!"
+	],
+	"1.13.1": [
+		"Hardware acceleration on Windows - improves video playback",
+		"Performance improvements",
+		"Subtitles: picked size persists with app restart, resize subtitles with =/- keys",
+		"Improvements in thumbnail notifications",
+		"Bugfixes, minor improvements"
+	],
+	"1.10.18": [
+		"Bugfixes",
+		"Subtitles selection is now helped by crowd-sourcing",
+		"Significant Player optimization"
+	],
+	"1.10.17": [
+		"Discover optimizations",
+		"Bullet-proof auto-updater for Windows"
+	],
+	"1.10.14": [
+		"Episodes/movies now have \"Remove From Cache\" in right-click menu",
+		"Visual improvements",
+		"Seek bar active area increased, easier to click/control"
+	],
+	"1.10.10": [
+		"Player: new streaming report",
+		"Bugfix: auto-indexing movies/series from your HD on Windows",
+		"Bugfix: quit on Windows"
+	],
+	"1.10.9": [
+		"Improvements to \"Watch on mobile device\"",
+		"Subtitles: ability to select alternative subtitles",
+		"Fixes to maximization behavior"
+	],
+	"1.10.7": [
+		"Auto-updater improvements",
+		"Settings &raquo; Subscribe to calendar",
+		"Subtitles: auto-adjusting size",
+		"Subtitles: Ability to change size manually",
+		"Animations on modal dialogs and series/movie details page"
+	],
+	"1.10.3": [
+		"Window opacity tweaked",
+		"Window drag bugfixes",
+		"Automatic cache cleaning",
+		"Performance improvements"
+	],
+	"1.10.0": [
+		"Internal improvements"
+	],
+	"1.9.13": [
+		"Volume is changed by using scroll on player",
+		"Added a clock to the player (top left)",
+		"Performance fixes",
+		"Calendar - play available episodes",
+		"Gray out unavailable episodes"
+	],
+	"1.9.9": [
+		"Visual fixes",
+		"Watch on mobile device",
+		"Minor subtitles picking improvements"
+	],
+	"1.9.6": [
+		"Implemented auto-updater",
+		"Resizing window improvements",
+		"Plays trailers inside Cinematic",
+		"Back button, navigate back via escape",
+		"Calendar now in it's own tab"
+	],
+	"1.9.3": [
+		"Dismiss notifications",
+		"Sidebar fix for shows with many seasons",
+		"External player now plays with subtitles",
+		"Bugfixes"
+	],
+	"1.9.2": [
+		"Fallback to external player if we cannot play file",
+		"Improvements to full cast page"
+	],
+	"1.9.0": [
+		"Player now in a separate window - performance improvement",
+		"Performance fixes"
+	],
+	"1.8.15": [
+		"Subtitle picking improvements",
+		"Visual improvements",
+		"Removed maximum window size",
+		"Window behavior improvements/fixes",
+		"Share button"
+	],
+	"1.8.12": [
+		"Movie availability notifications",
+		"Report icon"
+	],
+	"1.8.10": [
+		"Full cast page",
+		"Discover: added recommendations",
+		"Calendar: new section that allows you to see upcoming episodes",
+		"Significant bugfixes"
+	]
+}

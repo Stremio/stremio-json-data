@@ -1,5 +1,10 @@
-# json-data
+# stremio-json-data
 JSON data used in Stremio
+
+```
+npm install stremio-json-data --save
+```
+
 
 ## Contains:
 

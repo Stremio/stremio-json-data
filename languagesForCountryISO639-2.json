@@ -4,13 +4,13 @@
     ],
     "AE": [
         "ara",
-        "per",
+        "fas",
         "eng",
         "hin",
         "urd"
     ],
     "AF": [
-        "per",
+        "fas",
         "pus",
         "uzb",
         "tuk"
@@ -23,7 +23,7 @@
     ],
     "AL": [
         "sqi",
-        "gre"
+        "ell"
     ],
     "AM": [
         "hye"
@@ -94,7 +94,7 @@
     "BH": [
         "ara",
         "eng",
-        "per",
+        "fas",
         "urd"
     ],
     "BI": [
@@ -221,12 +221,12 @@
         "msa"
     ],
     "CY": [
-        "gre",
+        "ell",
         "tur",
         "eng"
     ],
     "CZ": [
-        "cze",
+        "ces",
         "slk"
     ],
     "DE": [
@@ -318,7 +318,7 @@
     ],
     "GB": [
         "eng",
-        "wel",
+        "cym",
         "gla"
     ],
     "GD": [
@@ -370,7 +370,7 @@
         "fre"
     ],
     "GR": [
-        "gre",
+        "ell",
         "eng",
         "fre"
     ],
@@ -459,7 +459,7 @@
         "hye"
     ],
     "IR": [
-        "per",
+        "fas",
         "kur"
     ],
     "IS": [
@@ -600,7 +600,7 @@
         "ita"
     ],
     "MD": [
-        "rum",
+        "ron",
         "rus",
         "tur"
     ],
@@ -815,7 +815,7 @@
         "fre"
     ],
     "RO": [
-        "rum",
+        "ron",
         "hun"
     ],
     "RS": [
